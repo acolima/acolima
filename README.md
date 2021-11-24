@@ -6,7 +6,7 @@ Full Stack Web Developer student at Driven Education
 - I'm studying Control and Automation Engineering, but in process to change to Computer Science 📚 
 - Into programming since 2013 💻
 - Pronouns: She/Her 😄
-- I love listen to music, can't have a good day without it 🎵 
+- I love listening to music, can't have a good day without it 🎵 
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
