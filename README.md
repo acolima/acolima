@@ -8,7 +8,7 @@ Full Stack Web Developer student at Driven Education
 - Pronouns: She/Her 😄
 - I love listening to music, can't have a good day without it 🎵 
 
-### Languages and Tools:
+### Languages and Tools
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,3 +20,8 @@ Full Stack Web Developer student at Driven Education
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+### Contact
+<a href="https://www.linkedin.com/in/ana-caroline-oliveira-lima-51821122b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"/>
+</a>
