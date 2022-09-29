@@ -1,12 +1,9 @@
 ## Olá mundo, sou a Carol 👋 
 
-Desenvolvedora Web Full Stack
-
-#### Mais sobre mim:
-- Peguei gosto por programação em 2013 💻
-- Estou cursando Engenharia de Controle e Automação, mas tentando mudar pra Ciência da Computação 📚 
-- Sempre que possível estou ouvindo música, não consigo funcionar direito sem 🎵
-
+#### Um pouquinho sobre mim:
+- Sou Desenvolvedora Web Full Stack com uma paixãozinha maior por Front End :woman_technologist:
+- Tive o primeiro contato com programação em 2013 💻
+- Sempre que possível estou ouvindo música 🎵
 
 ## Stack
 
@@ -22,6 +19,7 @@ Desenvolvedora Web Full Stack
 ### Front End
 <div>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 <img alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
@@ -39,13 +37,13 @@ Desenvolvedora Web Full Stack
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-### Ferramentas, Versionamento e Sistemas Operacionais
+### Ferramentas e Versionamento
 <div>
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 ### Testes
