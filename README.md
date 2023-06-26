@@ -1,9 +1,7 @@
-## Olá mundo, sou a Carol 👋 
+## Olá mundo, sou a Carol ✌️
 
-#### Um pouquinho sobre mim:
-- Sou Desenvolvedora Web Full Stack com uma paixãozinha maior por Front End :woman_technologist:
-- Tive o primeiro contato com programação em 2013 💻
-- Sempre que possível estou ouvindo música 🎵
+Desenvolvedora Web Full Stack com uma paixãozinha maior por Front End :woman_technologist:
+
 
 ## Stack
 
@@ -23,6 +21,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 <img alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="SASS">
 </div>
 
 ### Back End e Banco de Dados
